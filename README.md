@@ -1,4 +1,4 @@
-# lucernanoetica-com
+# Lucerna Noetica
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-lucernanoetica-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://lucernanoetica.com/
+Lucerna Noetica provides an AI‑agent powered online shop builder that lets creators, freelancers, and businesses launch fully functional e‑commerce stores quickly. Users can sell products, accept bookings, memberships, digital downloads, and crypto payments, all managed through a single dashboard. The platform offers custom domain support, AI‑driven design, analytics, and integration with existing workflows, targeting makers, artists, consultants, and agencies.
+
+**Areas:** Company · e-commerce · AI · online-shop · platform
+
+## Lucerna Noetica on APIs.io
+
+Everything profiled for Lucerna Noetica is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/lucernanoetica-com/](https://apis.io/providers/lucernanoetica-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Lucerna Noetica API](https://apis.io/apis/lucernanoetica-com/lucerna-noetica-api/) — API for Lucerna Noetica e‑commerce platform, as documented at the developer portal.
+- [Lucerna Noetica API](https://apis.io/apis/lucernanoetica-com/lucernanoetica-com-api/) — Lucerna Noetica API as documented publicly: 12 operations. Contract generated from the documentation by API Evangelist (2026-11-17); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostV1McpRequest](https://apis.io/schemas/lucernanoetica-com/lucernanoetica-com-post-v1-mcp-request/)
+- [PostV1TSlugRequest](https://apis.io/schemas/lucernanoetica-com/lucernanoetica-com-post-v1-tslug-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Lucernanoetica Com Context](https://apis.io/jsonld/lucernanoetica-com/lucernanoetica-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Lucerna Noetica API Rules](https://apis.io/rules/lucernanoetica-com/lucernanoetica-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Lucerna Noetica Authentication](https://apis.io/security/lucernanoetica-com/lucernanoetica-com-authentication/)
+- [Lucerna Noetica Domain Security](https://apis.io/security/lucernanoetica-com/lucernanoetica-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Lucerna Noetica Plans Pricing](https://apis.io/plans/lucernanoetica-com/lucernanoetica-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lucernanoetica.com/)
+- [Documentation](https://lucernanoetica.com/docs)
+- [Pricing](https://lucernanoetica.com/pricing)
+- [Terms of service](https://lucernanoetica.com/terms)
+- [Privacy policy](https://lucernanoetica.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 42.4** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 49.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 51.5 |
+
+**Agent readiness 34.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/lucernanoetica-com/](https://apis.io/providers/lucernanoetica-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Lucerna Noetica: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/lucernanoetica-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
